@@ -1068,7 +1068,7 @@ The project demonstrates how SQL can be used to transform raw music data into st
 
 # 👨‍💻 Author
 
-**Yash**
+**Harjot Singh**
 
 ### Project
 
